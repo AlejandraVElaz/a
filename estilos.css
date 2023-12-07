@@ -1,0 +1,20 @@
+img{width:100px; height:100px;}
+.ro{width:70px; height:40px;}
+body{ 
+	background-image: url("fondo 3.jpg");
+}
+table{ text-align:center;
+background-color:#7b6e9f;
+width: 70%}
+a:link {
+  color:#4d9900;
+}
+a:visited {
+  color:#0099cc;
+}
+a:hover {
+  color:#9933ff;
+}
+a:active {
+  color:#00ffff;
+}
